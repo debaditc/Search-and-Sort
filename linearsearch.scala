@@ -1,3 +1,7 @@
+/* Linear search 
+ * Time complexity - O(N)
+*/
+
 import scala.util.control.Breaks._
 
 object linearsearch {
@@ -9,7 +13,6 @@ object linearsearch {
     var search = Console.readInt()
     
     linearsearch(arr,search)
-
   }
   
   def linearsearch (arr : Array[Int],search : Int)
