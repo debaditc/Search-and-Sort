@@ -5,7 +5,7 @@
 
 import scala.util.control.Breaks._
 
-object interpolationsearch {
+object interpolationsearch{
   
   def main (args : Array[String])
   {
