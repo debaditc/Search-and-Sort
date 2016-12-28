@@ -1,7 +1,7 @@
 /* Interpolation search 
 * Slower than binary search ONLY IF array is small
 * Time complexity : O(log log n)
-/*
+*/
 
 import scala.util.control.Breaks._
 
