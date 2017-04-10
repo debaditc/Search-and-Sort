@@ -3,6 +3,11 @@ Implementation of Boyer Moore Horspool Algorithm
 
 This algo is used to search and determing substring inside a string
 
+Time complexity
+Avg case : O(n)
+Worst case : O(n*m)
+where m is the length of the pattern and n is the length of search string
+
 */
 
 
