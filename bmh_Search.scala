@@ -9,7 +9,7 @@ This algo is used to search and determing substring inside a string
 import scala.util._
 import collection.mutable.HashMap
 
-object BMH_Search {
+object bmh_Search {
   
   def main (args : Array[String])
   {
